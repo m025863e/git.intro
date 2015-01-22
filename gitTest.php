@@ -9,7 +9,10 @@
 class gitTest {
     public function testFunction{
         $test = "";
-
+        $math= 0;
         echo $test;
+
+        $math = 2 + 5 - 7;
+        echo $math;
     }
 } 
