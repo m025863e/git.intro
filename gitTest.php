@@ -7,7 +7,7 @@
  */
 
 class gitTest {
-    public function testFunction{
+    public function testFunction(){
         $test = "";
         $math= 0;
         echo $test;
