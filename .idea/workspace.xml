@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d017cc-a3f3-423a-8d33-10750559ae7f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gitTest.php" afterPath="$PROJECT_DIR$/gitTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/worthlessFile.php" />
     </list>
     <ignored path="gitIntro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gitTest.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gitTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gitTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="140" selection-end="140" vertical-scroll-proportion="0.09728183" vertical-offset="0" max-vertical-offset="699">
+            <state line="17" column="2" selection-start="256" selection-end="256" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="worthlessFile.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/worthlessFile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="23" selection-start="247" selection-end="247" vertical-scroll-proportion="0.21888413" vertical-offset="0" max-vertical-offset="699">
               <folding />
             </state>
           </provider>
@@ -48,6 +57,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/gitTest.php" />
+        <option value="$PROJECT_DIR$/worthlessFile.php" />
       </list>
     </option>
   </component>
@@ -135,7 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="0" width="1400" height="860" extended-state="0" />
+    <frame x="20" y="0" width="1400" height="860" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -177,7 +187,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gitTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="140" selection-end="140" vertical-scroll-proportion="0.09728183" vertical-offset="0" max-vertical-offset="699">
+        <state line="17" column="2" selection-start="256" selection-end="256" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worthlessFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="247" selection-end="247" vertical-scroll-proportion="0.21888413" vertical-offset="0" max-vertical-offset="699">
           <folding />
         </state>
       </provider>
